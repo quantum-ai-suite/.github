@@ -6,7 +6,7 @@
 
 ## Welcome to Quantum AI Suite
 
-The official GitHub organization for **Quantum Suite** by [Sly Technologies Inc.](https://slytechs.com), based in Florida, NY. We're building the future of business operations with our AI-driven Business Operating System (QBOS) that seamlessly integrates ERP, CRM, HR, IT, and more into a unified, self-refining platform.
+The official GitHub for **Quantum Suite** by [Sly Technologies Inc.](https://slytechs.com), based in Florida, NY. We're building the future of business operations with our AI-driven Business Operating System (QBOS) that seamlessly integrates ERP, CRM, HR, IT, and more into a unified, self-refining platform.
 
 ### Our Vision
 
