@@ -1,6 +1,6 @@
 # Quantum AI Suite - Revolutionary Business Operating System
 
-![License](https://img.shields.io/badge/license-MIT-blue) ![Status](https://img.shields.io/badge/status-Active-green) ![Website](https://img.shields.io/website?url=https%3A%2F%2Fquantumsuite.ai)
+![License](https://img.shields.io/badge/license-MIT-blue) ![Status](https://img.shields.io/badge/status-Active-green) 
 
 **Transform Your Business with AI-Powered Operations**
 
